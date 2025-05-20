@@ -1,3 +1,8 @@
+                                                                                         Made By OMAR SHEHATA
+
+
+
+
 # 🧠 Ideal Weight Prediction with TensorFlow
 
 This project predicts a person's **ideal weight** based on their **height**, **age**, and **gender** using a neural network built with **TensorFlow**.
