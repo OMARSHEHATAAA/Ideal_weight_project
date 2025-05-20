@@ -4,7 +4,7 @@ This project predicts a person's **ideal weight** based on their **height**, **a
 
 ## 📁 Project Files
 
-- `ideal_weight_prediction_tensorflow_fixed_images.ipynb`: Main notebook with explanations, training, and image previews.
+- `ideal_weight_prediction_tensorflow.ipynb`: Main notebook with explanations, training, and image previews.
 - `ideal_weight_model.py`: Python script version of the notebook.
 - `ideal_weight_dataset.csv`: Sample dataset.
 - `requirements.txt`: Python dependencies.
